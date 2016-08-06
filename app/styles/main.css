@@ -1,0 +1,13 @@
+
+  .app-states {
+ list-style-type: none;
+}
+
+.phone {
+  float: left; margin: 0px 0px 0px 0px;
+}
+
+.clear-float {
+  clear: both;
+} 
+}
